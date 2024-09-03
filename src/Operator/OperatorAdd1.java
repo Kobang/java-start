@@ -14,8 +14,5 @@ public class OperatorAdd1 {
         System.out.println("a = " + a);
         ++a;
         System.out.println("a = " + a);
-        
-        --a;
-        System.out.println("a = " + a);
     }
 }
