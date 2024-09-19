@@ -10,5 +10,9 @@ public class Comp1 {
         System.out.println(a > b);
         System.out.println(a >= b);
         System.out.println(a <= b);
+
+        // 결과를 boolean
+        boolean result = a == b;
+        System.out.println(result);
     }
 }
